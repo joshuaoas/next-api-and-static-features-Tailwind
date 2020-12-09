@@ -6,7 +6,7 @@ const Nav = () => (
 		<nav className="flex flex-wrap items-center justify-between p-4">
 			<div className="flex flex-shrink-0 mr-6">
 				<Link href="/">
-					<a className="text-xl text-indigo-500 font-semibold">Brand</a>
+					<a className="text-xl text-indigo-500 font-semibold">Matlock</a>
 				</Link>
 			</div>
 			<div className="block lg:hidden">
@@ -23,11 +23,7 @@ const Nav = () => (
 			</div>
 			<div className="navbar-menu hidden lg:flex lg:flex-grow lg:items-center w-full lg:w-auto">
 				<div className="lg:mr-auto">
-					<Link href="/matlock">
-						<a className="block mt-4 lg:inline-block lg:mt-0 text-white-200 mr-4">
-							Matlock
-						</a>
-					</Link>
+					
 				</div>
 				<div>
 					<Link href="/login">

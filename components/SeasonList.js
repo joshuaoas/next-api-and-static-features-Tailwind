@@ -12,19 +12,22 @@ export default function SeasonList(props) {
 							key={season.id}
 							className="my-1 px-1 w-1/2 sm:w-1/2 md:w-1/3 lg:my-4 lg:px-4 lg:w-1/4"
 						>
-							<div className="shadow-lg bg-white p-4">
-								<Link
+							<Link
 									href="/matlock/season/[id]"
 									as={`/matlock/season/${season.number}`}
+									
 								>
+							<div className="shadow-lg bg-white p-4" style={{cursor:"pointer"}}>
+								
 									<a className="font-semibold text-gray-800">
 										Season {season.number}
 									</a>
-								</Link>
+								
 								<p className="text-gray-500">
 									{season.premiereDate} - {season.endDate}
 								</p>
 							</div>
+							</Link>
 						</div>
 					))}
 				</div>

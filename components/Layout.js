@@ -5,7 +5,7 @@ import Nav from "./Nav";
 const Layout = ({ children }) => (
 	<div>
 		<Head>
-			<title>Star Wars</title>
+			<title>Matlock</title>
 			<link rel="icon" href="/favicon.ico" />
 		</Head>
 

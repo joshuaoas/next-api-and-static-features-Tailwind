@@ -13,7 +13,7 @@ const Season = ({ episodes }) => {
 	return (
 		<Layout>
 			<div>
-				<PageHead title="Episodes"/>
+				<PageHead title={'Season ' + episodes[0].season} />
 				<div className="container mx-auto px-6 py-6">
 				<ul>
 					{episodes.map(episode => (

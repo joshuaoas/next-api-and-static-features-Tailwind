@@ -6043,7 +6043,7 @@ Season.getInitialProps = function _callee(_ref2) {
 
 /***/ }),
 
-/***/ 1:
+/***/ 4:
 /*!**********************************************************************************************************************************************************************************************************************************************!*\
   !*** multi next-client-pages-loader?page=%2Fmatlock%2Fseason%2F%5Bid%5D&absolutePagePath=%2FUsers%2Fjoshoas%2FDocuments%2F_BATCAVE%2F_CODE%2F_My_GIT_Repos%2Fnext-api-and-static-features-Tailwind%2Fpages%2Fmatlock%2Fseason%2F%5Bid%5D.js ***!
   \**********************************************************************************************************************************************************************************************************************************************/
@@ -6066,5 +6066,5 @@ module.exports = dll_82519ec661270f7f484f;
 
 /***/ })
 
-},[[1,"static/runtime/webpack.js"]]]);
+},[[4,"static/runtime/webpack.js"]]]);
 //# sourceMappingURL=[id].js.map

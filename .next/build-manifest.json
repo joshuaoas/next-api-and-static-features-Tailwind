@@ -20,14 +20,6 @@
       "static/runtime/polyfills.js",
       "static/runtime/polyfills.js.map"
     ],
-    "/matlock": [
-      "static/runtime/webpack.js",
-      "static/runtime/main.js"
-    ],
-    "/matlock/cast/[id]": [
-      "static/runtime/webpack.js",
-      "static/runtime/main.js"
-    ],
     "/matlock/season/[id]": [
       "static/runtime/webpack.js",
       "static/runtime/main.js"

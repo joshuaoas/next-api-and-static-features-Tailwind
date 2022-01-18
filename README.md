@@ -2,7 +2,7 @@
 
 ## Getting Started
 
-This is a simple repo demonstrating Static bbuilding features with Next  using Matlock data
+This is a simple repo demonstrating Static building features with Next and Tailwind using Matlock data
 
 First, run the development server:
 
